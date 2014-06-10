@@ -1,0 +1,16 @@
+7.5 R 6/4
+5 Y 6/4
+5 GY 6/8
+2.5 G 6/6
+10 BG 6/4
+5 PB 6/8
+2.5 P 6/8
+10P 6/8
+4.5 R 4/13
+5 Y 8/10
+4.5 G 5/8
+3 PB 3/11
+5 YR 8/4
+5 GY 4/4
+Artificial DG
+Artificial LG

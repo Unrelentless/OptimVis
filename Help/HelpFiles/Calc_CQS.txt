@@ -1,0 +1,11 @@
+Calculation -> CQS
+
+This program calculates the following parameters using the
+colour quality scale when a single Spectral Power Distribution text file is loaded:
+
+-Correlated Colour Temperature
+-Luminous Efficacy
+-Qa (General CQS)
+-Qamin (Lowest General CQS)
+-i (index of the worst Qi)
+-Q1-Q15 (Special CQS)

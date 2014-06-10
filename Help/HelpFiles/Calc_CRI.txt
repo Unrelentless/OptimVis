@@ -1,0 +1,12 @@
+Calculation -> CRI
+
+Using the Colour Rendering Index method - this program calculates the following paramters when a spectral power distribution file of any light source is loaded:
+
+-Correlated Colour Temperature
+-Luminous Efficacy
+-Ra (General CRI)
+-Rb (Secondary CRI value)
+-Rc (Tertiary CRI value)
+-R1-R14 (CRI value for each of the 14 colour samples)
+
+It also plots the spectral reflectance curves of the 14 CRI colour samples as well as the SPD of the selected light source.

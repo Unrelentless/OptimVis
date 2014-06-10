@@ -1,0 +1,7 @@
+CIE Standard Illuminants
+Fluorescent Lamps (CIE 15.2)
+Fluorescent Lamps (CIE 15.3)
+High Pressure Discharge Lamps
+LEDs (L. W. Research)
+LEDs (Phillips Mixed)
+Test Light Sources

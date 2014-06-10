@@ -1,0 +1,20 @@
+Optimization -> Combination of SPDs
+
+Using differential evolution, this program can optimize the intensities of multiple LED spectral power distributions, to find the best combintaion of any number of the given LEDs. It then plots the resultant SPD, displays relevant CRI parameters and saves the SPD parameters to a selected text file.
+The parameters that are needed are explained below:
+
+Generations - This value indicates how many generations the differntial evolution will have. The more generations, the better the result.
+
+Population - This value indicates what the popuation of any particular generation will be. This value is automatically optimized depending on the number of SPDs loaded if the 'Allow Population Optimization' checkbox is checked.
+
+Fitness - This values acts as a maximum possible score the LEDs can achieve.
+
+F - The mutation constant. This value is used to make sure the offspring are not identical to their parents.
+
+CR - The crossover constant. This value influences the number of offspring vector elements to be changed.
+
+Custom SPD File - This program has a default SPD file with 7 LEDs. If the user wishes to use a custom SPD file, checking this box will allow for the loading of one.
+
+Number of LEDs avalable - Shows the user how many light source SPDs are loaded.
+
+Number of LEDs to use - Allows the user to define how many of the loaded light sources the program should optimize for.	

@@ -1,0 +1,13 @@
+2-degSPD display left.txt
+10-degSPD display right.txt
+CRI Opt N=7 Gen=50 P=70_SPD.txt
+CRI Opt N=7 Gen=1000 P=70_2_SPD.txt
+Gaussian N=4 Gen=1000 P=40_2_SPD.txt
+CRI Opt N=5 Gen=155 P=50_SPD.txt
+CRI Opt N=7 Gen=123 P=70_SPD.txt
+CRI Opt N=7 Gen=500 P=70_SPD.txt
+CRI Opt N=7 Gen=200 P=70_SPD.txt
+CRI Opt N=6 Gen=500 P=40_SPD.txt
+CRI Opt N=7 Gen=100 P=70_SPD.txt
+Triangular N=4 Gen=100 P=80_SPD.txt
+CRI Opt N=5 Gen=500 P=50_SPD.txt

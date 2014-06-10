@@ -1,0 +1,12 @@
+Calculation
+	-CRI
+	-CQS
+
+Optimization
+	-CRI
+	-CQS
+	-SPD Combinations
+	-Theoretical DE
+
+Visualization
+	-Compare Light Sources

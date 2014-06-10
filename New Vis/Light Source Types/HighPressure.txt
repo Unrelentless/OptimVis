@@ -1,0 +1,5 @@
+Standard HP Sodium(HP1)
+Deluxe HP Sodium(HP2)
+HP Metal Halide(HP3)
+HP Metal Halide(HP4)
+HP Metal Halide(HP5)
